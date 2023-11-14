@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushkumar24&label=Profile%20views&color=0e75b6&style=flat" alt="piyushkumar24" /> </p> -->
 
-- 🔭 I’m currently working on **Full Stack Projects**
+- 🔭 I’m currently working on **Full Stack Web Projects**
 
 - 🌱 I’m currently learning **Next JS, DevOPs**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN, DSA**
 
 - 📫 How to reach me **piyushkrcs@gmail.com**
 
