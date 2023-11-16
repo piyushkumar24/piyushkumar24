@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Projects**
 
-- 🌱 I’m currently learning **Next JS, DevOps**
+- 🌱 I’m currently learning **Next JS, DevOops**
 
 - 💬 Ask me about **MERN, DSA**
 
